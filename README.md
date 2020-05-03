@@ -1,2 +1,2 @@
 # phpmvc
-penerapan konsep oop pada projet mvc = model view control secara sederhana
+penerapan konsep PHP OOP pada projet MVC = Model View Control, secara sederhana
